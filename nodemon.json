@@ -1,0 +1,6 @@
+{
+  "verbose": false,
+  "events": {
+    "restart": "osascript -e 'display notification \"Server restarted\" with title \"Koa-upload-mw demo\"'"
+  }
+}
